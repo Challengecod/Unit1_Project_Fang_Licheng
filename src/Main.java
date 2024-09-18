@@ -18,7 +18,7 @@ public class Main {
         String billStr = s.nextLine(); // contains the bill as a string
         double bill = Double.parseDouble(billStr); // bill is converted into a double for later calculations
 
-        System.out.print("Tip Percentage: "); //
+        System.out.print("Tip Percentage: "); 
         String tipStr = s.nextLine(); // contains the tips as a string
         int tip = Integer.parseInt(tipStr); // tip is converted into a integer for later calculations
 
