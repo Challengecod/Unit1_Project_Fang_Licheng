@@ -42,13 +42,13 @@ public class Main {
         System.out.println("---------------------------");
         System.out.println("Total Tip Amount: $" + df_obj.format(totalTipAmount));
         System.out.println("---------------------------");
-        System.out.println("Total Bill cost: $" + df_obj.format(totalBillCost));
+        System.out.println("Total Bill Cost: $" + df_obj.format(totalBillCost));
         System.out.println("---------------------------");
         System.out.println("Tip Per Person: $" + df_obj.format(tipPerPerson));
         System.out.println("---------------------------");
         System.out.println("Total Bill Per Person: $" + df_obj.format(totalBillPerPerson));
         System.out.println("---------------------------");
-        System.out.println("The End");
+        System.out.println("The End. Thank you!");
 
 
     }
